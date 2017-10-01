@@ -7,16 +7,16 @@ Das Tutorial basiert auf einer [Masterarbeit von Stefan Niesner](http://malispro
 Das Vorhaben wurde auf dem [6. VuFind-Anwendertreffen](http://www.vufind.de/anwendertreffen/anwendertreffen-2017/) in einem [Vortrag](https://felixlohmeier.de/slides/2017-09-28_vufind-anwendertreffen-keynote.html#/38) angekündigt und wird im Zeitraum Oktober-November 2017 bearbeitet.
 
 - [x] ODT mit Pandoc in Markdown umwandeln
-- [ ] Gitbook mit Suchfunktion einrichten
+- [x] Gitbook mit Suchfunktion einrichten
 - [ ] Anleitung für VuFind 4 anpassen
 - [ ] Test im Kurs [Bibliotheks- und Archivinformatik an der HTW Chur](https://www.gitbook.com/read/book/felixlohmeier/kurs-bibliotheks-und-archivinformatik)
 - [ ] Erweiterung um Kapitel zu Datenimport über OAI-PMH
 
 ## Formate
 
-* Lesefassung bei GitBook \(HTML\): (folgt)
-* Druckfassung bei GitBook \(PDF\): (folgt)
-* Repository bei GitHub \(zum Nachnutzen\): [https://github.com/felixlohmeier/vufindtutorialde](https://github.com/felixlohmeier/vufindtutorialde)
+* Lesefassung bei GitBook \(HTML\): <https://www.gitbook.com/read/book/felixlohmeier/vufind-tutorial-de>
+* Druckfassung bei GitBook \(PDF\): <https://www.gitbook.com/download/pdf/book/felixlohmeier/vufind-tutorial-de>
+* Repository bei GitHub \(zum Nachnutzen\): <https://github.com/felixlohmeier/vufindtutorialde>
 
 ## Inhalte
 

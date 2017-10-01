@@ -1,0 +1,15 @@
+# Summary
+
+* [Einleitung](README.md)
+* [01. Installation von VirtualBox](01_Installation_VirtualBox.md)
+* [02. Installation von Linux (Xubuntu)](02_Installation_Xubuntu.md)
+* [03. Installation von VuFind](03_Installation_VuFind.md)
+* [04. Durchführung eines Testimports](04_Installation_Testimport.md)
+* [05. Überblick zur Konfiguration](05_Konfiguration_Ueberblick.md)
+* [06. Allgemeine Einstellungen](06_Konfiguration_Allgemein.md)
+* [07. Anpassung der Katalogoberfläche](07_Konfiguration_Katalogoberflaeche.md)
+* [08. Konfiguration der Facetten](08_Konfiguration_Facetten.md)
+* [09. Konfiguration von Kataloganreicherungen](09_Konfiguration_Kataloganreicherungen.md)
+* [10. Konfiguration der Suche, Teil I](10_Konfiguration_Suche_Teil_I.md)
+* [11. Datenimport MARC21 MARCXML](11_Datenimport_MARC21_MARCXML.md)
+* [12. Konfiguration der Suche, Teil II](12_Konfiguration_Suche_Teil_II.md)
