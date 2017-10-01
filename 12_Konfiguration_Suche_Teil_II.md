@@ -70,4 +70,4 @@ Stop Words and Synonyms. VuFind Documentation.
 <https://vufind.org/wiki/stop_ words_and_synonyms>
 
 Schmitt, Jörg; Stehle, Marcel 2010: Der OPAC aus dem Baukasten. Realisierung eines Katalog 2.0 unter Einbeziehung der Community. Überarb. Version 1.0 31.12.2010. Hamburg: Hochschule für Angewandte Wissenschaften Hamburg. Department Information.
-<http://edoc.sub.uni-hamburg.de/haw/volltexte/ 2011/1143/>
+<http://edoc.sub.uni-hamburg.de/haw/volltexte/2011/1143/>

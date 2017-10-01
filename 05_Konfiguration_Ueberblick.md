@@ -30,7 +30,7 @@ Kopieren Sie die Datei ```facets.ini```aus dem Verzeichnis ```/usr/local/vufind2
 ## Quellen
 
 Local Settings Directory. VuFind Documentation.
-<https://vufind.org/wiki/vufind2: local_settings_directory>
+<https://vufind.org/wiki/vufind2:local_settings_directory>
 
 ## Weiterführende Informationen
 
