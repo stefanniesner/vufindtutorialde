@@ -1,6 +1,6 @@
 # Tutorial: Installation und Konfiguration einer Demo von VuFind mit VirtualBox
 
-Das Tutorial basiert auf einer [Masterarbeit von Stefan Niesner](http://malisprojekte.web.th-koeln.de/wordpress/stefan-niesner/) aus dem Jahr 2015 und wird laufend für neue VuFind-Versionen aktualisiert.
+Das Tutorial basiert auf einer [Projektarbeit von Stefan Niesner](http://malisprojekte.web.th-koeln.de/wordpress/stefan-niesner/) aus dem Jahr 2015 und wird laufend für neue VuFind-Versionen aktualisiert.
 
 ## TODO
 
